@@ -1,4 +1,4 @@
-#READ ME  
+# READ ME  
 
 To run the program correctly, you must run the Server.java
 first then quickly run the Client.java. It doesn't work 
@@ -12,7 +12,7 @@ client 0, client 1, client 2, ect...
 
 Finally, this was ran in JavaEclipse IDE. 
 
-#To run the application correctly, 
+# To run the application correctly, 
  - Connect at least 2 Clients to the server 
  - Notice the client names via the Server output 
  - From the client terminal, message the other client in the form: This is the message @Client###
